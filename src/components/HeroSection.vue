@@ -1,5 +1,5 @@
 <template>
-    <div class="min-h-[130vh] md:min-h-[110vh] bg-red-400 flex items-center justify-center lg:block flex-col relative w-full  ">
+    <div class="min-h-[130vh] md:min-h-[110vh] flex items-center justify-center lg:block flex-col relative w-full  ">
         <div >
             <img :src="imgBg" alt="girl" class="absolute top-0 z-10 left-0 w-full h-full" >
         </div>
