@@ -57,7 +57,7 @@
         </button>
         <div class="flex items-center justify-between gap-2 flex-wrap">
         <a href="#" class="text-[#006FBA] border-b border-[#006FBA] font-[400] ">Forgot your password?</a>
-        <a href="#" class="text-[#006FBA] border-b border-[#006FBA] font-[400] ">Click here to sign up</a>
+        <router-link to="/signup" class="text-[#006FBA] border-b border-[#006FBA] font-[400] ">Click here to sign up</router-link>
 
         </div>
        </form>

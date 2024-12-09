@@ -73,7 +73,7 @@
                 </svg>
                 Sign up with Google
         </button>
-        <a href="#" class="text-[#006FBA] border-b border-[#006FBA] font-[400] ">Click here to log in</a>
+        <router-link to="/signin" class="text-[#006FBA] border-b border-[#006FBA] font-[400] ">Click here to log in</router-link>
        </form>
     </div>
 </template>
