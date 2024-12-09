@@ -1,8 +1,9 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
+import MyProducts from './views/MyProducts.vue';
 </script>
 
 <template>
+  <MyProducts />
   <router-view />
 </template>
 
