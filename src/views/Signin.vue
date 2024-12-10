@@ -35,6 +35,10 @@
                     </div>
                 </div>
             </div>
+            <div class="flex items-center justify-between gap-2 flex-wrap">
+        <a href="#" class="text-[#006FBA] border-b border-[#006FBA] font-[400] ">Reset your password?</a>
+
+        </div>
         </div>
         <button class="bg-gradient-to-t from-[#0097FE] to-[#14358A] mt-5 pb-1 flex items-center justify-center h-[35px] px-3 text-white rounded-[5px] w-full font-medium text-[20px]">Login</button>
         <h3 class="text-[#6A6868] text-[20px] my-3 font-[400] text-center">OR</h3>

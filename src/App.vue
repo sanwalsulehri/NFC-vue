@@ -4,6 +4,7 @@ import MyProducts from './views/MyProducts.vue';
 
 <template>
   <router-view />
+  
 </template>
 
  
